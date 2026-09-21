@@ -1,0 +1,6 @@
+{
+  "name": "EPA-AI Assistant - KUA Nan Sabaris",
+  "description": "Asisten AI Penyusun & Validator Laporan Kinerja E-PA dan Evident Kemenag untuk Rani Humaira, S.H.I. (KUA Nan Sabaris)",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
